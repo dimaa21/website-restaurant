@@ -1,14 +1,13 @@
 # Responsive Restaurant Website
-## [Watch it on youtube](https://youtu.be/5RIFrZEjURA)
-### Responsive Restaurant Website
 
-- Responsive Restaurant Website Design Using HTML CSS & JavaScript
-- Contains animations when scrolling.
-- Smooth scrolling in each section.
-- Includes a dark & light theme.
-- Developed first with the Mobile First methodology, then for desktop.
-- Compatible with all mobile devices and with a beautiful and pleasant user interface.
+- Crafted with HTML, CSS, & JavaScript for an Adaptive Restaurant Website Design.
+- Immerse in captivating scroll animations.
+- Seamless transitions enrich the scrolling experience in every section.
+- Offers both a sophisticated dark theme and a bright, light theme.
+- Initially shaped with the Mobile First approach, later optimized for desktop use.
+- Ensures compatibility across all mobile devices with an aesthetically pleasing user interface.
 
-💙 Join the channel to see more videos like this. [Bedimcode](https://www.youtube.com/@Bedimcode)
+# Getting Started
+To <a href="https://dimaa21.github.io/landing-halloween/">explore</a> the website, simply navigate and immerse yourself in the Halloween spirit. 
 
 ![preview img](/preview.png)
