@@ -8,6 +8,6 @@
 - Ensures compatibility across all mobile devices with an aesthetically pleasing user interface.
 
 # Getting Started
-To <a href="https://dimaa21.github.io/landing-halloween/">explore</a> the website, simply navigate and immerse yourself in the Halloween spirit. 
+To <a href="https://dimaa21.github.io/website-restaurant/">explore</a> the website, simply navigate and immerse yourself in the Halloween spirit. 
 
 ![preview img](/preview.png)
